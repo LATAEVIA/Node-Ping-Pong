@@ -1,0 +1,22 @@
+{
+  "name": "ping-pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LATAEVIA/Node-Ping-Pong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LATAEVIA/Node-Ping-Pong/issues"
+  },
+  "homepage": "https://github.com/LATAEVIA/Node-Ping-Pong#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
