@@ -18,5 +18,8 @@
   "homepage": "https://github.com/LATAEVIA/Node-Ping-Pong#readme",
   "dependencies": {
     "prompt": "^1.0.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.1"
   }
 }
