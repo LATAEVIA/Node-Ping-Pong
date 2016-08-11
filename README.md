@@ -16,7 +16,6 @@ _You will need the following things properly installed on your computer._
 
 * [Git](http://git-scm.com/)
 * [Node.js](http://nodejs.org/) (with NPM)
-* [Bower](http://bower.io/)
 
 
 ## Installation
@@ -24,7 +23,6 @@ _You will need the following things properly installed on your computer._
 * `git clone https://github.com/LATAEVIA/Node-Ping-Pong.git`
 * change into the new directory
 * `npm install`
-* `bower install`
 * `gulp build`
 
 ## Running / Development
